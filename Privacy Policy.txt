@@ -1,0 +1,29 @@
+Privacy Policy
+
+This privacy policy describes how Total Station Survey Points (TSSP) collects, uses, and shares personal data. It also describes your rights and choices with respect to your personal data and other important information. Please read this privacy policy carefully.
+
+What Personal Data We Collect and How We Collect It
+TSSP app collects the following personal data:
+
+- Imported files
+- Computer name
+- Operating system
+- Time of data import
+- User's IP address
+This data is collected via HTTP protocol by sending it to the Telegram channel of the app creator when user imports data into TSSP.
+
+How We Use Personal Data
+
+TSSP app uses your personal data for the following purposes:
+
+- To find errors when user imports files
+
+Sharing Personal Data with Third Parties
+
+We do not share your personal data with any third parties except to provide TSSP app services.
+
+Your Rights and Choices
+
+You can request access, modification or deletion of your personal data provided to TSSP app by emailing maxim.shmakov@outlook.com or via Telegram t.me/MaximShmakov.
+
+We will respond to your request within 30 days.
